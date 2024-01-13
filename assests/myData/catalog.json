@@ -1,0 +1,84 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "iphone 12 pro",
+            "desc": "iphone 12th version",
+            "price": 1000,
+            "color": "#33505a",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5dUM8vQroUs9EW5GcxGxPJfXLprHX-ryDY_eIcJTsMelfvMeRBN4dMra0ywEEUPnLmMk&usqp=CAU"
+        },
+        {
+            "id": 2,
+            "name": "pixel 5",
+            "desc": "google pixel 12th version",
+            "price": 900,
+            "color": "#00ac51",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhTVGit14_1eHo9xNkIYNAv32hCPO2DR5K1BikDxQigH6-MNr9WA4xoiuogPy7bbRkAeo&usqp=CAU"
+        },
+        {
+            "id": 3,
+            "name": "M1 Macbook Air",
+            "desc": "Apple Mackbook air with apple silicon",
+            "price": 800,
+            "color": "#e0bfae",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfDOZSqlIbJMUlp-qzjc47PwTZv-ms3ABQ_n3Cmh4k_5q-g44KOYrqbPl3QeBlx9LeyFA&usqp=CAU"
+        },
+        {
+            "id": 4,
+            "name": "Vivo V21",
+            "desc": "Vivo V21",
+            "price": 700,
+            "color": "#7c95eb",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaQjIYFgzsEsBRDTY1zeb-B-ku5_gUekZXTqp6Qnbq0McaWDXZKBi771nqYJt02s8qlek&usqp=CAU"
+        },
+        {
+            "id": 5,
+            "name": "Oppo F21 pro",
+            "desc": "Oppo S21 pro",
+            "price": 600,
+            "color": "#7c95eb",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4DHsWWiWeNPPRFJIt7_fk1c6r8kCx87UE2XmbYPfU1t6ejkrzo0q1HkHQovybEtq91xo&usqp=CAU"
+        },
+        {
+            "id": 6,
+            "name": "Lava agni 2",
+            "desc": "lava agni 2 5g",
+            "price": 400,
+            "color": "#7c95eb",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZc2ilIEdvgoOXZbbHeBpzMKtNidg4M80u9H23n0xb7diSV4294wlCvn5noAdhxAsjqlo&usqp=CAU"
+        },
+        {
+            "id": 7,
+            "name": "Realme 11 pro",
+            "desc": "realme 11 pro",
+            "price": 300,
+            "color": "#7c95eb",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyBBOR8yIWr5DJ3vqb-ZGgKbyitz07umz_hAbd4_gxEyZdVLY34fiVCs1gKQfQkyf8tHI&usqp=CAU"
+        },
+        {
+            "id": 8,
+            "name": "Play Station 5",
+            "desc": "Sony PlayStation 5th generation",
+            "price": 200,
+            "color": "#544ee4",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA5G6FyQfSmFDSygEfxgD0i6MZIplatJT9kTf7agO-E-NssKzAeJdJ97taGTifE1GvtwQ&usqp=CAU"
+        },
+        {
+            "id": 9,
+            "name": "Airpods pro",
+            "desc": "Apple Airpods pro 1st generation",
+            "price": 100,
+            "color": "#7c95eb",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4_6ZScvX_y5IodKaTpxHpoLweBHB4sNzuN-C2FCwdifxaj6HquGVcmdiFPfkx9VIIhHs&usqp=CAU"
+        },
+        {
+            "id": 10,
+            "name": "Moto g 5g",
+            "desc": "Motorola first 5g phone",
+            "price": 2000,
+            "color": "#7c95eb",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsNZsrWENW_dsdPcEsG_8omQCqxxL9tBq16-qF5LsR3SHyXB3OSvnIkZP8OveomZjxVgw&usqp=CAU"
+        }
+    ]
+}
